@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git checkout *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git fetch *)",
+      "Bash(git log *)",
+      "Bash(git status)",
+      "Bash(git diff *)",
+      "Bash(git reset *)",
+      "Bash(git filter-branch *)",
+      "Bash(git ls-files *)",
+      "Bash(mkdir *)",
+      "Bash(find . *)",
+      "Bash(grep *)",
+      "Bash(npm install*)",
+      "Bash(npm run *)",
+      "Bash(pip install uv)",
+      "Bash(uv sync)",
+      "Bash(uv pip install *)",
+      "Bash(uv run *)",
+      "Bash(curl http://localhost:*)",
+      "Bash(curl http://127.0.0.1:*)"
+    ]
+  }
+}
